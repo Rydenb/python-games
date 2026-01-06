@@ -1,0 +1,12 @@
+rpg game notes:
+class: helps define things that we want to build later on. There is a class in battle.py, enemy.py, player.py
+print: outputs text to the terminal
+cprint: pauses for a short time before it rights the next letter(like in undertale)
+functions: define code to run later when you write the function
+Variables: store information for later use that can be changed/incremente/decremented
+loops: run code over and over again until meets conditions
+class attributes: variables of a class that are unique to a class, you need to have self.(variable name) to use them
+"if" statements: runs code IF something happens or does not happen
+try/except: test code to see if it produces and error, if produces and error then it runs the code under "except", examples in battle
+special class functions(__init__, __str__): Init define fundamental aspects of the class, __Str__ allows when we print an object from the class it prints a special message and not just a memory address
+Debugging: zero:read error message see what line its on and see what it is, first: typos, second: indentation, thrid:collon/perenthasis/sqaure brackets, fourth:checking syntax for python/libraries, fifth: make sure you dont have empty function or loops
